@@ -79,7 +79,7 @@ include 'users.php';
 			</div>
 			<div class="column_4 offset_1">
 				<p class="text bold big">Join the team</p>
-					Help build TOX on <a href="https://github.com/irungentoo/ProjectTox-Core" class="text bold underline color theme">GitHub</a>.
+					Help build Tox on <a href="https://github.com/irungentoo/ProjectTox-Core" class="text bold underline color theme">GitHub</a>.
 			</div>
 			<div class="column_3 offset_1">
 				<p class="text bold big">Need some help?</p>
