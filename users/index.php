@@ -35,7 +35,7 @@ include 'users.php';
     <header class="bck light padding">
         <div class="row">
             <div class="column_6">
-                <a href="./"><img src="../assets/imgs/logo_head.png" alt="Logo Tox" class="logo on-left"/></a>
+                <a href="../"><img src="../assets/imgs/logo_head.png" alt="Logo Tox" class="logo on-left"/></a>
             </div>
             <nav class="column_6 text right">
 				<a href="https://github.com/irungentoo/ProjectTox-Core" class="button secondary"><span class="icon info-sign"></span>Learn more</a>
