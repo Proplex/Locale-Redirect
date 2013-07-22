@@ -1,0 +1,17 @@
+<html><head><title>framework - Revision 25301: /standard/trunk/library/Zend/Translate/Adapter</title></head>
+<body>
+ <h2>framework - Revision 25301: /standard/trunk/library/Zend/Translate/Adapter</h2>
+ <ul>
+  <li><a href="../">..</a></li>
+  <li><a href="Array.php">Array.php</a></li>
+  <li><a href="Csv.php">Csv.php</a></li>
+  <li><a href="Gettext.php">Gettext.php</a></li>
+  <li><a href="Ini.php">Ini.php</a></li>
+  <li><a href="Qt.php">Qt.php</a></li>
+  <li><a href="Tbx.php">Tbx.php</a></li>
+  <li><a href="Tmx.php">Tmx.php</a></li>
+  <li><a href="Xliff.php">Xliff.php</a></li>
+  <li><a href="XmlTm.php">XmlTm.php</a></li>
+ </ul>
+ <hr noshade><em>Powered by <a href="http://subversion.tigris.org/">Subversion</a> version 1.6.15 (r1038135).</em>
+</body></html>
