@@ -1,7 +1,11 @@
 <?php
-include_once "assets/Locale.php";
+include_once "Zend/Locale.php";
 $zend_locale = new Zend_Locale(Zend_Locale::BROWSER);
 $lang = $zend_locale->getLanguage();
 $lang = "{$lang}.html";
-include($lang);
+if (file_exists($lang)) {
+	include($lang);
+	} else {
+	include("en.html");
+	}
 ?>
